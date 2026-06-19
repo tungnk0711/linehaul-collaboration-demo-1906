@@ -1,1 +1,2 @@
-Tuyến đường 1: Hanoi Hub -> Danang Hub.
+Tuyến đường 1: Hanoi Hub -> Danang Hub (Tải trọng tối
+đa: 50 TẤN)
